@@ -1,0 +1,25 @@
+[{
+  "cep": "87260-000",
+  "logradouro": "",
+  "complemento": "",
+  "bairro": "",
+  "localidade": "Araruna",
+  "uf": "PR",
+  "ibge": "4101705",
+  "gia": "",
+  "ddd": "44",
+  "siafi": "7431"
+}, {
+  "cep": "18703-757",
+  "logradouro": "Rua Luiz Carlos Montebugholli Chaim",
+  "complemento": "",
+  "bairro": "Vila Operária",
+  "localidade": "Avaré",
+  "uf": "SP",
+  "ibge": "3504503",
+  "gia": "1946",
+  "ddd": "14",
+  "siafi": "6189"
+}, {
+  "erro": "true"
+}]
